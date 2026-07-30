@@ -1,4 +1,5 @@
-## Hi there 👋
+## Typing Stats
+[!Monkeytype Stats](https://monkeytype-stats.vercel.app/api?username=CyberStrange&theme=serika_dark)](https://monkeytype.com)
 
 <!--
 **Axdhxrsh/Axdhxrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
